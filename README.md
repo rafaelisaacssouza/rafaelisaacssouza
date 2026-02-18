@@ -13,7 +13,7 @@
 
 ---
 
-## ⚛ Frameworks & Ecosystem
+## ⚛ Frontend Frameworks & Ecosystem
 
 <div align="center">
 
@@ -29,10 +29,12 @@
 
 ---
 
-## 🖥 Backend
+## 🖥 Backend (Node & PHP Ecosystem)
 
 <div align="center">
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
@@ -63,7 +65,7 @@
 
 ---
 
-## 🛠 Tools & Environment
+## 🛠 Dev Environment
 
 <div align="center">
 
